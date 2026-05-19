@@ -13,3 +13,7 @@
 | Лаба 2 | [tpo-lab-2](https://github.com/olechkakulic/tpo-lab-2) | 
 | Лаба 3 | [lab3-TPO](https://github.com/veronlkkkaa/lab3-TPO) |
 | Лаба 4 | в процессе |
+
+<div align="center">
+  <img src="tpomain.gif" width="600"/>
+</div>
