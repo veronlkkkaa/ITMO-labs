@@ -2,6 +2,10 @@
 
 Лабораторные работы по курсу ТПО.
 
+<div align="center">
+  <img src="tpomain.gif" width="600"/>
+</div>
+
 ### Работы выполнены совместно с:
 - [olechkakulic](https://github.com/olechkakulic)
 
@@ -14,6 +18,4 @@
 | Лаба 3 | [lab3-TPO](https://github.com/veronlkkkaa/lab3-TPO) |
 | Лаба 4 | в процессе |
 
-<div align="center">
-  <img src="tpomain.gif" width="600"/>
-</div>
+
