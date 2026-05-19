@@ -1,0 +1,32 @@
+# Теория (не нужна для сдачи)
+THEORY.md
+
+# Leiningen
+target/
+.lein-*
+.nrepl-port
+.nrepl-history
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# Clojure dev tools
+.clj-kondo/
+.lsp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.log
+*.tmp
+
+# Игнорируем корневые пустые папки
+/src/
+/test/
