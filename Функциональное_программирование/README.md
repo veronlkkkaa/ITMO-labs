@@ -4,6 +4,10 @@
 
 **Язык:** Clojure 
 
+<div align="center">
+  <img src="fpmain.gif" width="300"/>
+</div>
+
 | Лаба | Репозиторий |
 |------|------------|
 | Лаба 0 | [FPLab0](https://github.com/veronlkkkaa/FPLab0) |
