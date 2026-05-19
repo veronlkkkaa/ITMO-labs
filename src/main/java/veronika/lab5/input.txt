@@ -1,0 +1,2 @@
+name;coordinates_x;coordinates_y;price;comment;type;event_name;event_date;event_type
+lol;5;10;200;lolkek;VIP;birthday;19-09-2003;BASEBALL
