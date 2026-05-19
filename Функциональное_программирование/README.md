@@ -5,7 +5,7 @@
 **Язык:** Clojure 
 
 <div align="center">
-  <img src="fpmain.gif" width="300"/>
+  <img src="fpmain.gif" width="600"/>
 </div>
 
 | Лаба | Репозиторий |
