@@ -2,8 +2,9 @@
 
 Лабораторные работы по курсу ОС, 2025.
 
-<img width="600" alt="osimain" src="https://github.com/user-attachments/assets/dde6abfb-4971-481b-a0ed-a3f6afdf37fa" />
-
+<div align="center">
+  <img width="400" alt="osimain" src="https://github.com/user-attachments/assets/dde6abfb-4971-481b-a0ed-a3f6afdf37fa" />
+</div>
 
 **Язык:** C
 
